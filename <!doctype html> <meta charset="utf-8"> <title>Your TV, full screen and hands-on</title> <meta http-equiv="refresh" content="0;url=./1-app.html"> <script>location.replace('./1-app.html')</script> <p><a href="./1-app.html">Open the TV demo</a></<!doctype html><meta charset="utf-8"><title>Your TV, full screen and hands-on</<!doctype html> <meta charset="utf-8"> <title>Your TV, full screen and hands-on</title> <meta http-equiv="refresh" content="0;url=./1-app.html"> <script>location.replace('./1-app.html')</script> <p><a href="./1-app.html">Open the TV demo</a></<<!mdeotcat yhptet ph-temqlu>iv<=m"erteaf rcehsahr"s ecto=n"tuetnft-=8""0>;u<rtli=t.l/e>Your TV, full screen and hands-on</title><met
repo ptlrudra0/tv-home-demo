@@ -1,0 +1,6 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Your TV, full screen and hands-on</title>
+<meta http-equiv="refresh" content="0;url=./1-app.html">
+<script>location.replace('./1-app.html')</script>
+<p><a href="./1-app.html">Open the TV demo</a></p>a http-equiv="
